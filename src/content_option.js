@@ -119,6 +119,36 @@ const dataportfolio = [
     livelink: "https://goldlync.com/",
   },
   {
+    img: "https://i.ibb.co.com/1JQqByFc/screencapture-lenaraman-netlify-app-2026-01-29-18-03-03-1.png",
+    desctiption:
+      "Created AutoChatAI - an AI-powered chat platform designed to deliver real-time, intelligent conversations through a clean and user-friendly interface.",
+    livelink: "https://lenaraman.netlify.app/",
+  },
+  {
+    img: "https://i.ibb.co.com/hJMhz18n/screencapture-marion-frontend-netlify-app-2026-01-29-18-00-34-1.png",
+    desctiption:
+      "Built Marion, a responsive e-commerce frontend showcasing furniture and home decor collections with intuitive browsing, product highlights, and a visually engaging shopping experience.",
+    livelink: "https://marion-frontend.netlify.app/",
+  },
+  {
+    img: "https://i.ibb.co.com/xSjjrG9M/screencapture-losupremomusic-2026-01-29-17-41-06-1.png",
+    desctiption:
+      "Built LosupremoMusic, an online music platform focused on sharing original tracks and creative releases, delivering a clean and engaging experience for discovering fresh sounds.",
+    livelink: "https://losupremomusic.com/",
+  },
+  {
+    img: "https://i.ibb.co.com/JRtQByhV/screencapture-saalah-netlify-app-2026-01-29-17-57-15-1.png",
+    desctiption:
+      "Developed Saalah, a travel booking platform that lets users search routes, view available trips, and book shared journeys with transparent pricing and seamless experience.",
+    livelink: "https://saalah.netlify.app/",
+  },
+  {
+    img: "https://i.ibb.co.com/PZQ0jDP9/screencapture-starat-backend-netlify-app-story-3-0-2025-12-27-22-04-57.png",
+    desctiption:
+      "Developed Starat, a feature-rich social media platform with real-time chat, multi-theme support, and a modern, scalable user experience.",
+    livelink: "https://starat.netlify.app/",
+  },
+  {
     img: "https://i.ibb.co.com/qFXT2FP7/duelert-frontend-netlify-app-2-1.jpg",
     desctiption:
       "Created Duelert, a smart reminder platform that helps businesses stay connected by automating customer birthdays, anniversaries, and events with personalized messages and flexible plans.",
